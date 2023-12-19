@@ -8,8 +8,10 @@ sentence_transformers==2.2.2
 Pillow
 fastapi
 PyPDF2
+langchain
 torch==2.0.1
 pydantic
 uvicorn
 sse-starlette
 boto3
+argilla

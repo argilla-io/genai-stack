@@ -226,5 +226,12 @@ services:
     ports:
       - 8505:8505
 
+  argilla:
+    image: argilla/argilla-quickstart
+    ports:
+      - 6900:6900
+
 networks:
   net:
+
+
